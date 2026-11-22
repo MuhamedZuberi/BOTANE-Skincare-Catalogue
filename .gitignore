@@ -1,0 +1,14 @@
+
+# React
+node_modules/
+frontend/node_modules/
+
+# .NET build files
+**/bin/
+**/obj/
+
+# SQLite database
+*.db
+
+# Environment files
+.env
